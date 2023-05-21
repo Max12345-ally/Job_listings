@@ -1,5 +1,8 @@
+
 import data from '../mock/data.json';
 import { JobPosition } from './JobPosition';
+
+
 
 const JobList = () => {
   return (
